@@ -1,2 +1,2 @@
 ﻿get-service -Name 'bits'
-#this sucks
+#nah it's totally cool
